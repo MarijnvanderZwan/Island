@@ -48,6 +48,7 @@ SourceArt/**/*.tga
 
 # Builds
 Build/*
+Binaries/
 
 # Don't ignore icon files in Build
 !Build/**/*.ico
@@ -60,3 +61,5 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+*.db
