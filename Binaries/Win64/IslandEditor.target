@@ -2,7 +2,7 @@
 	"TargetName" : "IslandEditor",
 	"Platform" : "Win64",
 	"Configuration" : "Development",
-	"BuildId" : "1cdb3a71-8a01-48a7-94f2-2faa7e51c7b2",
+	"BuildId" : "",
 	"Version" : 
 	{
 		"MajorVersion" : 4,
@@ -15,15 +15,15 @@
 	"BuildProducts" :
 	[
 		{
-			"Path" : "$(ProjectDir)/Binaries/Win64/UE4Editor-Island-752.dll",
+			"Path" : "$(ProjectDir)/Binaries/Win64/UE4Editor-Island.dll",
 			"Type" : "DynamicLibrary"
 		},
 		{
-			"Path" : "$(ProjectDir)/Binaries/Win64/UE4Editor-Island-752.pdb",
+			"Path" : "$(ProjectDir)/Binaries/Win64/UE4Editor-Island.pdb",
 			"Type" : "SymbolFile"
 		},
 		{
-			"Path" : "$(ProjectDir)/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-Island-752.lib",
+			"Path" : "$(ProjectDir)/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-Island.lib",
 			"Type" : "ImportLibrary"
 		}
 	],
