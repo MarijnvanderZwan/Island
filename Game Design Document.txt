@@ -1,6 +1,8 @@
 Ideeën
 	Niet kunnen springen wanneer je iets vast hebt
 	Watervolume zwembaar maken
+	Bij doodvallen camera lager laten eindigen
+	
 
 Ontwerp
 	Sigils
@@ -21,6 +23,7 @@ Meshes
 	Grote rotsen
 
 	Runestenen
+	Boek
 	
 	Ton
 	Kist
