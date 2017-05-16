@@ -1,0 +1,47 @@
+Ideeën
+	Niet kunnen springen wanneer je iets vast hebt
+	Watervolume zwembaar maken
+
+Ontwerp
+	Sigils
+		Kever
+		Kat
+		Blad
+		Boom
+		Golf
+		Zon
+		Ketting
+		Hand
+		Vuur
+		Octupus
+		Aapje
+
+Meshes
+	Deur / poort
+	Grote rotsen
+
+	Runestenen
+	
+	Ton
+	Kist
+	Scheepswrak
+
+Animatie
+	Knop
+
+Houten Schuifblok Maze
+	Springen afschermen
+	
+
+Knikkerbaan
+	ballen vallen in lava
+	ballen beginnen uit 'mechanische' contraptie'
+
+bericht systeem
+
+	tekst kan een instructie zijn bij interactie - perkament
+	tekst kan triggeren door in de omgeving te zijn - wolkje
+	tekst kan een vaste positie hebben en geselecteerd worden - steen tablet
+
+
+	
