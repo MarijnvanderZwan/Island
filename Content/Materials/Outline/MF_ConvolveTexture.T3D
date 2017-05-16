@@ -1,0 +1,440 @@
+Begin Object Class=MaterialFunction Name="MF_ConvolveTexture"
+   Begin Object Class=MaterialExpressionAdd Name="MaterialExpressionAdd_26"
+   End Object
+   Begin Object Class=MaterialExpressionAdd Name="MaterialExpressionAdd_27"
+   End Object
+   Begin Object Class=MaterialExpressionAdd Name="MaterialExpressionAdd_28"
+   End Object
+   Begin Object Class=MaterialExpressionAdd Name="MaterialExpressionAdd_29"
+   End Object
+   Begin Object Class=MaterialExpressionAdd Name="MaterialExpressionAdd_30"
+   End Object
+   Begin Object Class=MaterialExpressionAdd Name="MaterialExpressionAdd_31"
+   End Object
+   Begin Object Class=MaterialExpressionAdd Name="MaterialExpressionAdd_32"
+   End Object
+   Begin Object Class=MaterialExpressionAdd Name="MaterialExpressionAdd_33"
+   End Object
+   Begin Object Class=MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_0"
+   End Object
+   Begin Object Class=MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_1"
+   End Object
+   Begin Object Class=MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_2"
+   End Object
+   Begin Object Class=MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_2"
+   End Object
+   Begin Object Class=MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_3"
+   End Object
+   Begin Object Class=MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_31"
+   End Object
+   Begin Object Class=MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_32"
+   End Object
+   Begin Object Class=MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_33"
+   End Object
+   Begin Object Class=MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_40"
+   End Object
+   Begin Object Class=MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_41"
+   End Object
+   Begin Object Class=MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_42"
+   End Object
+   Begin Object Class=MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_43"
+   End Object
+   Begin Object Class=MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_44"
+   End Object
+   Begin Object Class=MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_45"
+   End Object
+   Begin Object Class=MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_6"
+   End Object
+   Begin Object Class=MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_0"
+   End Object
+   Begin Object Class=MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_4"
+   End Object
+   Begin Object Class=MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_7"
+   End Object
+   Begin Object Class=MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_8"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_34"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_35"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_36"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_43"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_44"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_45"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_46"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_47"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_48"
+   End Object
+   Begin Object Class=SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionAdd_26"
+      A=(Expression=MaterialExpressionMultiply'MF_ConvolveTexture:MaterialExpressionMultiply_35')
+      B=(Expression=MaterialExpressionMultiply'MF_ConvolveTexture:MaterialExpressionMultiply_34')
+      MaterialExpressionEditorX=1580
+      MaterialExpressionEditorY=-540
+      MaterialExpressionGuid=15BC5BC6430E9D90ECADF8819890FEE0
+      Function=MaterialFunction'MF_ConvolveTexture'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_27"
+      A=(Expression=MaterialExpressionMultiply'MF_ConvolveTexture:MaterialExpressionMultiply_36')
+      B=(Expression=MaterialExpressionAdd'MF_ConvolveTexture:MaterialExpressionAdd_26')
+      MaterialExpressionEditorX=1780
+      MaterialExpressionEditorY=-560
+      MaterialExpressionGuid=BB1EC6DF4350A9667A8380919D30CCCB
+      Function=MaterialFunction'MF_ConvolveTexture'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_28"
+      A=(Expression=MaterialExpressionMultiply'MF_ConvolveTexture:MaterialExpressionMultiply_44')
+      B=(Expression=MaterialExpressionMultiply'MF_ConvolveTexture:MaterialExpressionMultiply_43')
+      MaterialExpressionEditorX=1580
+      MaterialExpressionEditorY=-360
+      MaterialExpressionGuid=A2017F09441EA279160416A835A70B87
+      Function=MaterialFunction'MF_ConvolveTexture'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_29"
+      A=(Expression=MaterialExpressionMultiply'MF_ConvolveTexture:MaterialExpressionMultiply_45')
+      B=(Expression=MaterialExpressionAdd'MF_ConvolveTexture:MaterialExpressionAdd_28')
+      MaterialExpressionEditorX=1780
+      MaterialExpressionEditorY=-360
+      MaterialExpressionGuid=8DD09F6141548A3F3E5AFFA091794F4D
+      Function=MaterialFunction'MF_ConvolveTexture'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_30"
+      A=(Expression=MaterialExpressionMultiply'MF_ConvolveTexture:MaterialExpressionMultiply_47')
+      B=(Expression=MaterialExpressionMultiply'MF_ConvolveTexture:MaterialExpressionMultiply_46')
+      MaterialExpressionEditorX=1580
+      MaterialExpressionEditorY=-180
+      MaterialExpressionGuid=F0C9C2114D69A080A05069B8C255F046
+      Function=MaterialFunction'MF_ConvolveTexture'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_31"
+      A=(Expression=MaterialExpressionMultiply'MF_ConvolveTexture:MaterialExpressionMultiply_48')
+      B=(Expression=MaterialExpressionAdd'MF_ConvolveTexture:MaterialExpressionAdd_30')
+      MaterialExpressionEditorX=1760
+      MaterialExpressionEditorY=-180
+      MaterialExpressionGuid=52DCAAA4493A3F9F4A63E1B6258A7AE8
+      Function=MaterialFunction'MF_ConvolveTexture'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_32"
+      A=(Expression=MaterialExpressionAdd'MF_ConvolveTexture:MaterialExpressionAdd_27')
+      B=(Expression=MaterialExpressionAdd'MF_ConvolveTexture:MaterialExpressionAdd_29')
+      MaterialExpressionEditorX=1998
+      MaterialExpressionEditorY=-311
+      MaterialExpressionGuid=AC07606B4E954748F52E92919BBA17AE
+      Function=MaterialFunction'MF_ConvolveTexture'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_33"
+      A=(Expression=MaterialExpressionAdd'MF_ConvolveTexture:MaterialExpressionAdd_32')
+      B=(Expression=MaterialExpressionAdd'MF_ConvolveTexture:MaterialExpressionAdd_31')
+      MaterialExpressionEditorX=2211
+      MaterialExpressionEditorY=-221
+      MaterialExpressionGuid=73429BFF4193831DA9ABFE9EE107B90F
+      Function=MaterialFunction'MF_ConvolveTexture'
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_0"
+      Constant=(R=0.110000,G=0.110000,B=0.110000,A=0.000000)
+      MaterialExpressionEditorX=-440
+      MaterialExpressionEditorY=260
+      MaterialExpressionGuid=89CEC61841ACC65A23BEE09B137F36A6
+      Function=MaterialFunction'MF_ConvolveTexture'
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_1"
+      Constant=(R=0.110000,G=0.110000,B=0.110000,A=0.000000)
+      MaterialExpressionEditorX=-440
+      MaterialExpressionEditorY=460
+      MaterialExpressionGuid=35FE861348C962BACC3255BB3C3DCD17
+      Function=MaterialFunction'MF_ConvolveTexture'
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_2"
+      Constant=(R=0.110000,G=0.110000,B=0.110000,A=0.000000)
+      MaterialExpressionEditorX=-440
+      MaterialExpressionEditorY=680
+      MaterialExpressionGuid=6BBDE69346A3562BB0F9609C75B5D57C
+      Function=MaterialFunction'MF_ConvolveTexture'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_2"
+      Preview=(Expression=MaterialExpressionConstant3Vector'MF_ConvolveTexture:MaterialExpressionConstant3Vector_0')
+      InputName="Row0"
+      Description="First row of the convolution kernel"
+      Id=B764223B40B1EDBB4C921F9E412CA8D5
+      MaterialExpressionEditorX=-80
+      MaterialExpressionEditorY=260
+      MaterialExpressionGuid=725B05C846718FB390F689B1F3576834
+      Function=MaterialFunction'MF_ConvolveTexture'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_3"
+      Preview=(Expression=MaterialExpressionConstant3Vector'MF_ConvolveTexture:MaterialExpressionConstant3Vector_1')
+      InputName="Row1"
+      Description="Second row of the convolution matrix"
+      Id=49AD4B1041DA1F9EF1A94C994DB669CB
+      PreviewValue=(X=0.000000,Y=1.000000,Z=0.000000,W=1.000000)
+      MaterialExpressionEditorX=-80
+      MaterialExpressionEditorY=500
+      MaterialExpressionGuid=F17A5E2B46B38E29D1EA8C96BBB87B94
+      Function=MaterialFunction'MF_ConvolveTexture'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_31"
+      InputName="Top-Left"
+      Id=639D73FD4A2A4E23E94837BE75EE478A
+      MaterialExpressionEditorX=-360
+      MaterialExpressionEditorY=-620
+      MaterialExpressionGuid=840661B646D0C8CCE16F4DA1475E7236
+      Function=MaterialFunction'MF_ConvolveTexture'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_32"
+      InputName="Top-Center"
+      Id=B3D8DFFC44E9BB9D23C7F0994155EB23
+      MaterialExpressionEditorX=-60
+      MaterialExpressionEditorY=-620
+      MaterialExpressionGuid=BC40040447F1FD9A381DEBB8D7B8DEE2
+      Function=MaterialFunction'MF_ConvolveTexture'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_33"
+      InputName="Top-Right"
+      Id=348721E64EBBDD93E8FDB19526C56145
+      MaterialExpressionEditorX=260
+      MaterialExpressionEditorY=-620
+      MaterialExpressionGuid=B0EBFC3C4C067EA00993529A9680AFBE
+      Function=MaterialFunction'MF_ConvolveTexture'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_40"
+      InputName="Middle-Left"
+      Id=62FD9DE14A8B79EF5EE0DB90E150E7F5
+      MaterialExpressionEditorX=-360
+      MaterialExpressionEditorY=-380
+      MaterialExpressionGuid=D5F71984407EBF012820939A2B026976
+      Function=MaterialFunction'MF_ConvolveTexture'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_41"
+      InputName="Middle-Center"
+      Id=30E896CA49E9063F48E2C79FB0EB47D4
+      MaterialExpressionEditorX=-60
+      MaterialExpressionEditorY=-380
+      MaterialExpressionGuid=1D06F4AE426723392E12E5AB10720590
+      Function=MaterialFunction'MF_ConvolveTexture'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_42"
+      InputName="Middle-Right"
+      Id=C5C345A94C05AFEEC298239B867256ED
+      MaterialExpressionEditorX=260
+      MaterialExpressionEditorY=-380
+      MaterialExpressionGuid=6A4E63FC493693F02BB44AA37849C3FA
+      Function=MaterialFunction'MF_ConvolveTexture'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_43"
+      InputName="Bottom-Left"
+      Id=313EB124454664C556B2359D44393BB2
+      MaterialExpressionEditorX=-360
+      MaterialExpressionEditorY=-140
+      MaterialExpressionGuid=AB3DE2484ECD1FF174A3E5A524847DBC
+      Function=MaterialFunction'MF_ConvolveTexture'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_44"
+      InputName="Bottom-Center"
+      Id=346B56684E6A5A867766CDA883402060
+      MaterialExpressionEditorX=-60
+      MaterialExpressionEditorY=-140
+      MaterialExpressionGuid=B528FA7F418E840A95ED3FAEB2210F22
+      Function=MaterialFunction'MF_ConvolveTexture'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_45"
+      InputName="Bottom-Right"
+      Id=2CD56D934FBC1DAE4419809C1BC1EF31
+      MaterialExpressionEditorX=260
+      MaterialExpressionEditorY=-140
+      MaterialExpressionGuid=55632E94449DE136C2A6E98023E1CBFF
+      Function=MaterialFunction'MF_ConvolveTexture'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_6"
+      Preview=(Expression=MaterialExpressionConstant3Vector'MF_ConvolveTexture:MaterialExpressionConstant3Vector_2')
+      InputName="Row2"
+      Description="Third row of the convolution matrix"
+      Id=602C680F4C0AD0CFC3FFB1905AD30787
+      MaterialExpressionEditorX=-80
+      MaterialExpressionEditorY=740
+      MaterialExpressionGuid=000F18714199FB849D1DD8BC774B62B1
+      Function=MaterialFunction'MF_ConvolveTexture'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_0"
+      A=(Expression=MaterialExpressionAdd'MF_ConvolveTexture:MaterialExpressionAdd_33')
+      bLastPreviewed=True
+      Id=4200A56C4BD1860E67C26584E1749DAA
+      MaterialExpressionEditorX=2400
+      MaterialExpressionEditorY=-220
+      MaterialExpressionGuid=BABC5CB2482EEEA347FCA59CFC4A1FEB
+      Function=MaterialFunction'MF_ConvolveTexture'
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_4"
+      MaterialFunction=MaterialFunction'/Engine/Functions/Engine_MaterialFunctions02/SplitComponents.SplitComponents'
+      FunctionInputs(0)=(ExpressionInputId=6867ABD54EFEB1A9617F1F8C5D05CEB9,Input=(Expression=MaterialExpressionFunctionInput'MF_ConvolveTexture:MaterialExpressionFunctionInput_2',InputName="Color"))
+      FunctionOutputs(0)=(ExpressionOutputId=4B58FE2B4A996EBB215C1DAFD4CBEE13,Output=(OutputName="RGB"))
+      FunctionOutputs(1)=(ExpressionOutputId=D1562D5E460B49635956528A6AA27FCB,Output=(OutputName="R"))
+      FunctionOutputs(2)=(ExpressionOutputId=3FF2AEEC42C59C1920805C81F7FE2DE4,Output=(OutputName="G"))
+      FunctionOutputs(3)=(ExpressionOutputId=C284D36346E6D2F0004C84913B4F77E2,Output=(OutputName="B"))
+      MaterialExpressionEditorX=260
+      MaterialExpressionEditorY=280
+      MaterialExpressionGuid=646A33CC49C8A46086B6EBA02FA2E779
+      Function=MaterialFunction'MF_ConvolveTexture'
+      Outputs(0)=(OutputName="RGB")
+      Outputs(1)=(OutputName="R")
+      Outputs(2)=(OutputName="G")
+      Outputs(3)=(OutputName="B")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_7"
+      MaterialFunction=MaterialFunction'/Engine/Functions/Engine_MaterialFunctions02/SplitComponents.SplitComponents'
+      FunctionInputs(0)=(ExpressionInputId=6867ABD54EFEB1A9617F1F8C5D05CEB9,Input=(Expression=MaterialExpressionFunctionInput'MF_ConvolveTexture:MaterialExpressionFunctionInput_3',InputName="Color"))
+      FunctionOutputs(0)=(ExpressionOutputId=4B58FE2B4A996EBB215C1DAFD4CBEE13,Output=(OutputName="RGB"))
+      FunctionOutputs(1)=(ExpressionOutputId=D1562D5E460B49635956528A6AA27FCB,Output=(OutputName="R"))
+      FunctionOutputs(2)=(ExpressionOutputId=3FF2AEEC42C59C1920805C81F7FE2DE4,Output=(OutputName="G"))
+      FunctionOutputs(3)=(ExpressionOutputId=C284D36346E6D2F0004C84913B4F77E2,Output=(OutputName="B"))
+      MaterialExpressionEditorX=240
+      MaterialExpressionEditorY=520
+      MaterialExpressionGuid=75F1160F48E48177220037BF1064548D
+      Function=MaterialFunction'MF_ConvolveTexture'
+      Outputs(0)=(OutputName="RGB")
+      Outputs(1)=(OutputName="R")
+      Outputs(2)=(OutputName="G")
+      Outputs(3)=(OutputName="B")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_8"
+      MaterialFunction=MaterialFunction'/Engine/Functions/Engine_MaterialFunctions02/SplitComponents.SplitComponents'
+      FunctionInputs(0)=(ExpressionInputId=6867ABD54EFEB1A9617F1F8C5D05CEB9,Input=(Expression=MaterialExpressionFunctionInput'MF_ConvolveTexture:MaterialExpressionFunctionInput_6',InputName="Color"))
+      FunctionOutputs(0)=(ExpressionOutputId=4B58FE2B4A996EBB215C1DAFD4CBEE13,Output=(OutputName="RGB"))
+      FunctionOutputs(1)=(ExpressionOutputId=D1562D5E460B49635956528A6AA27FCB,Output=(OutputName="R"))
+      FunctionOutputs(2)=(ExpressionOutputId=3FF2AEEC42C59C1920805C81F7FE2DE4,Output=(OutputName="G"))
+      FunctionOutputs(3)=(ExpressionOutputId=C284D36346E6D2F0004C84913B4F77E2,Output=(OutputName="B"))
+      MaterialExpressionEditorX=240
+      MaterialExpressionEditorY=760
+      MaterialExpressionGuid=79B9162649CF825A6E7DE5A0C7A1FF96
+      Function=MaterialFunction'MF_ConvolveTexture'
+      Outputs(0)=(OutputName="RGB")
+      Outputs(1)=(OutputName="R")
+      Outputs(2)=(OutputName="G")
+      Outputs(3)=(OutputName="B")
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_34"
+      A=(Expression=MaterialExpressionFunctionInput'MF_ConvolveTexture:MaterialExpressionFunctionInput_31')
+      B=(Expression=MaterialExpressionMaterialFunctionCall'MF_ConvolveTexture:MaterialExpressionMaterialFunctionCall_4',OutputIndex=1)
+      MaterialExpressionEditorX=800
+      MaterialExpressionEditorY=-540
+      MaterialExpressionGuid=CD5EB2344DCC8E4B23F3AEBBABCB8E3E
+      Function=MaterialFunction'MF_ConvolveTexture'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_35"
+      A=(Expression=MaterialExpressionFunctionInput'MF_ConvolveTexture:MaterialExpressionFunctionInput_32')
+      B=(Expression=MaterialExpressionMaterialFunctionCall'MF_ConvolveTexture:MaterialExpressionMaterialFunctionCall_4',OutputIndex=2)
+      MaterialExpressionEditorX=1000
+      MaterialExpressionEditorY=-540
+      MaterialExpressionGuid=86D2940F4357CB6CCBE13BB96A1ED20A
+      Function=MaterialFunction'MF_ConvolveTexture'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_36"
+      A=(Expression=MaterialExpressionFunctionInput'MF_ConvolveTexture:MaterialExpressionFunctionInput_33')
+      B=(Expression=MaterialExpressionMaterialFunctionCall'MF_ConvolveTexture:MaterialExpressionMaterialFunctionCall_4',OutputIndex=3)
+      MaterialExpressionEditorX=1200
+      MaterialExpressionEditorY=-540
+      MaterialExpressionGuid=1EE4805F401019A1BFF52CAED4CCCDF8
+      Function=MaterialFunction'MF_ConvolveTexture'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_43"
+      A=(Expression=MaterialExpressionFunctionInput'MF_ConvolveTexture:MaterialExpressionFunctionInput_40')
+      B=(Expression=MaterialExpressionMaterialFunctionCall'MF_ConvolveTexture:MaterialExpressionMaterialFunctionCall_7',OutputIndex=1)
+      MaterialExpressionEditorX=800
+      MaterialExpressionEditorY=-380
+      MaterialExpressionGuid=894C385449107D15EF6240AE2190E40F
+      Function=MaterialFunction'MF_ConvolveTexture'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_44"
+      A=(Expression=MaterialExpressionFunctionInput'MF_ConvolveTexture:MaterialExpressionFunctionInput_41')
+      B=(Expression=MaterialExpressionMaterialFunctionCall'MF_ConvolveTexture:MaterialExpressionMaterialFunctionCall_7',OutputIndex=2)
+      MaterialExpressionEditorX=1000
+      MaterialExpressionEditorY=-380
+      MaterialExpressionGuid=9E1F4D414B9165FD18DEE1BC41ED6415
+      Function=MaterialFunction'MF_ConvolveTexture'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_45"
+      A=(Expression=MaterialExpressionFunctionInput'MF_ConvolveTexture:MaterialExpressionFunctionInput_42')
+      B=(Expression=MaterialExpressionMaterialFunctionCall'MF_ConvolveTexture:MaterialExpressionMaterialFunctionCall_7',OutputIndex=3)
+      MaterialExpressionEditorX=1200
+      MaterialExpressionEditorY=-380
+      MaterialExpressionGuid=2B81AF604D4F0A73B8A8C184DF301B5D
+      Function=MaterialFunction'MF_ConvolveTexture'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_46"
+      A=(Expression=MaterialExpressionFunctionInput'MF_ConvolveTexture:MaterialExpressionFunctionInput_43')
+      B=(Expression=MaterialExpressionMaterialFunctionCall'MF_ConvolveTexture:MaterialExpressionMaterialFunctionCall_8',OutputIndex=1)
+      MaterialExpressionEditorX=800
+      MaterialExpressionEditorY=-220
+      MaterialExpressionGuid=93522FD74808386477C086B09ACC603D
+      Function=MaterialFunction'MF_ConvolveTexture'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_47"
+      A=(Expression=MaterialExpressionFunctionInput'MF_ConvolveTexture:MaterialExpressionFunctionInput_44')
+      B=(Expression=MaterialExpressionMaterialFunctionCall'MF_ConvolveTexture:MaterialExpressionMaterialFunctionCall_8',OutputIndex=2)
+      MaterialExpressionEditorX=1000
+      MaterialExpressionEditorY=-220
+      MaterialExpressionGuid=7309D1234F58FAEC9BDD308E978396A1
+      Function=MaterialFunction'MF_ConvolveTexture'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_48"
+      A=(Expression=MaterialExpressionFunctionInput'MF_ConvolveTexture:MaterialExpressionFunctionInput_45')
+      B=(Expression=MaterialExpressionMaterialFunctionCall'MF_ConvolveTexture:MaterialExpressionMaterialFunctionCall_8',OutputIndex=3)
+      MaterialExpressionEditorX=1200
+      MaterialExpressionEditorY=-220
+      MaterialExpressionGuid=36F34A904BCDF6A4C9A890B13F22E43B
+      Function=MaterialFunction'MF_ConvolveTexture'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   StateId=88592C914EB1FC8C40FF73ABB69D9727
+   Description="3x3 Image Convolution"
+   bExposeToLibrary=True
+   LibraryCategories(0)="Image Processing"
+   LibraryCategoriesText(0)=()
+   LibraryCategoriesText(1)="Image Processing"
+   FunctionExpressions(0)=MaterialExpressionFunctionOutput'MaterialExpressionFunctionOutput_0'
+   FunctionExpressions(1)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_2'
+   FunctionExpressions(2)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_3'
+   FunctionExpressions(3)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_6'
+   FunctionExpressions(4)=MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_4'
+   FunctionExpressions(5)=MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_7'
+   FunctionExpressions(6)=MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_8'
+   FunctionExpressions(7)=MaterialExpressionAdd'MaterialExpressionAdd_26'
+   FunctionExpressions(8)=MaterialExpressionAdd'MaterialExpressionAdd_27'
+   FunctionExpressions(9)=MaterialExpressionAdd'MaterialExpressionAdd_28'
+   FunctionExpressions(10)=MaterialExpressionAdd'MaterialExpressionAdd_29'
+   FunctionExpressions(11)=MaterialExpressionAdd'MaterialExpressionAdd_30'
+   FunctionExpressions(12)=MaterialExpressionAdd'MaterialExpressionAdd_31'
+   FunctionExpressions(13)=MaterialExpressionAdd'MaterialExpressionAdd_32'
+   FunctionExpressions(14)=MaterialExpressionAdd'MaterialExpressionAdd_33'
+   FunctionExpressions(15)=MaterialExpressionMultiply'MaterialExpressionMultiply_34'
+   FunctionExpressions(16)=MaterialExpressionMultiply'MaterialExpressionMultiply_35'
+   FunctionExpressions(17)=MaterialExpressionMultiply'MaterialExpressionMultiply_36'
+   FunctionExpressions(18)=MaterialExpressionMultiply'MaterialExpressionMultiply_43'
+   FunctionExpressions(19)=MaterialExpressionMultiply'MaterialExpressionMultiply_44'
+   FunctionExpressions(20)=MaterialExpressionMultiply'MaterialExpressionMultiply_45'
+   FunctionExpressions(21)=MaterialExpressionMultiply'MaterialExpressionMultiply_46'
+   FunctionExpressions(22)=MaterialExpressionMultiply'MaterialExpressionMultiply_47'
+   FunctionExpressions(23)=MaterialExpressionMultiply'MaterialExpressionMultiply_48'
+   FunctionExpressions(24)=MaterialExpressionConstant3Vector'MaterialExpressionConstant3Vector_0'
+   FunctionExpressions(25)=MaterialExpressionConstant3Vector'MaterialExpressionConstant3Vector_1'
+   FunctionExpressions(26)=MaterialExpressionConstant3Vector'MaterialExpressionConstant3Vector_2'
+   FunctionExpressions(27)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_31'
+   FunctionExpressions(28)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_32'
+   FunctionExpressions(29)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_33'
+   FunctionExpressions(30)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_40'
+   FunctionExpressions(31)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_41'
+   FunctionExpressions(32)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_42'
+   FunctionExpressions(33)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_43'
+   FunctionExpressions(34)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_44'
+   FunctionExpressions(35)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_45'
+   CombinedInputTypes=4
+   CombinedOutputTypes=15
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+End Object
