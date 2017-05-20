@@ -1,6 +1,7 @@
 Ideeën
 	Niet kunnen springen wanneer je iets vast hebt
 	Watervolume zwembaar maken
+	Deur met diercombinaties met hint
 
 Ontwerp
 	Sigils
