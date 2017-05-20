@@ -1,7 +1,11 @@
 Ideeën
 	Niet kunnen springen wanneer je iets vast hebt
 	Watervolume zwembaar maken
+
 	Deur met diercombinaties met hint
+=======
+	Bij doodvallen camera lager laten eindigen
+	
 
 Ontwerp
 	Sigils
@@ -22,6 +26,7 @@ Meshes
 	Grote rotsen
 
 	Runestenen
+	Boek
 	
 	Ton
 	Kist
@@ -32,11 +37,13 @@ Animatie
 
 Houten Schuifblok Maze
 	Springen afschermen
+		puntige hoekige hek meshes
 	
 
 Knikkerbaan
 	ballen vallen in lava
 	ballen beginnen uit 'mechanische' contraptie'
+	lavaballen creeër machine, bal lava in water
 
 bericht systeem
 
