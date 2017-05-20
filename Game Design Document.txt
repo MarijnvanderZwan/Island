@@ -27,6 +27,8 @@ Meshes
 
 	Runestenen
 	Boek
+	Torch
+	Brazier
 	
 	Ton
 	Kist
