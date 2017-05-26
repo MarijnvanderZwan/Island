@@ -65,5 +65,4 @@ DerivedDataCache/*
 
 *.db
 
-*.umap
 Content/Maps/Map_Island_BuiltData.uasset
