@@ -5,7 +5,8 @@ Ideeën
 	Deur met diercombinaties met hint
 =======
 	Bij doodvallen camera lager laten eindigen
-	
+	Lichtpuzzel met spiegels
+	Vloer waarbij alle tiles geactiveerd moeten worden om een deur te openen
 
 Ontwerp
 	Sigils
