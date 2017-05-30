@@ -47,6 +47,7 @@ Knikkerbaan
 	ballen vallen in lava
 	ballen beginnen uit 'mechanische' contraptie'
 	lavaballen creeër machine, bal lava in water
+	Ronde vormen voor sigils, worden vasgehouden door stenen tentakels
 
 bericht systeem
 
