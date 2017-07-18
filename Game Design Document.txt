@@ -28,15 +28,43 @@ Meshes
 
 	Runestenen
 	Boek
-	Torch
 	Brazier
+	Goal beam
+	Muurstuk met raam / tralies
+	
 	
 	Ton
-	Kist
+	Schatkist
 	Scheepswrak
 
+	Muren / steen
+	Kameronderdelen
+	Houten muur
+	Puntige houten muur / pallisade
+	balk verbindingstuk
+	Stenen pad
+	Trap als deel van stenen pad
+
+	Puzzle goals centerpiece
+	Urn / Vazen
+	Rotzooi
+	Dak
+	Stalen Hek
+	Ketting tbv ruine
+	Losse pilaar
+	Standbeeld
+	Sokkel
+	Sarcofaag
+	Offertafel
+	
+	Struik
+	Schildpad
+	
+	
+	
+
 Animatie
-	Knop
+	
 
 Houten Schuifblok Maze
 	Springen afschermen
