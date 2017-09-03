@@ -8,17 +8,23 @@ Agenda 3-9
 		tijdlimiet
 			in interface bouwen
 		'vormen' lopen
+		niet kunnen springen visueel verklaren
 		drie uitgewerkte puzzels
 			1 intro
 			2 normaal
 			3 moeilijk (eventueel combineren met andere puzzel elementen)
+
+Floortile puzzel
+	3 soorten:
+		- Verf alle tiles uit, als je een tweede keer op een tile komt gaat hij weer aan.
+ 		- Maak een vorm, druk op een knop om met een effect weer te geven welkje tiles aan moeten. Daarna tiles aanzetten tot deze vorm gemaakt is
+		- Zet alle tiles aan. Tiles blijven amar een bepaalde tijd aan. Doel is om het patroon te leren en daarna efficient alle tiles aan te zetten
 
 Agenda toekomst
 	Sigil tree wordt sigil totempaal
 
 Ideeën
 	Watervolume zwembaar maken
-
 	Deur met diercombinaties met hint
 
 Bugs
