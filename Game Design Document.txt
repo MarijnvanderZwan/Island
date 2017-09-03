@@ -1,11 +1,33 @@
+
+Agenda 3-9
+	Reticle updaten (tijdlimiet element toepassen)
+	Valkhek / bodemhek
+	Floortile puzzel
+		Floortile mesh
+		Afstand tussen tiles vergroten om overloop bug op te lossen
+		tijdlimiet
+			in interface bouwen
+		'vormen' lopen
+		drie uitgewerkte puzzels
+			1 intro
+			2 normaal
+			3 moeilijk (eventueel combineren met andere puzzel elementen)
+
+Agenda toekomst
+	Sigil tree wordt sigil totempaal
+
 Ideeën
-	Niet kunnen springen wanneer je iets vast hebt
 	Watervolume zwembaar maken
 
 	Deur met diercombinaties met hint
+
+Bugs
+	Interface tellers moeten niet standaard zichtbaar zijn
+	Lightbeam collide met interaction range van speler
+ 
 =======
 	Bij doodvallen camera lager laten eindigen
-	Lichtpuzzel met spiegels
+	
 	Vloer waarbij alle tiles geactiveerd moeten worden om een deur te openen
 
 Ontwerp
@@ -64,27 +86,25 @@ Meshes
 	Gras
 
 	
-	
-
-Animatie
-	
 
 Houten Schuifblok Maze
 	Springen afschermen
 		puntige hoekige hek meshes
 	
-
 Knikkerbaan
 	ballen vallen in lava
 	ballen beginnen uit 'mechanische' contraptie'
 	lavaballen creeër machine, bal lava in water
+	
+
+Voltooid
+	Niet kunnen springen wanneer je iets vast hebt
 	Ronde vormen voor sigils, worden vasgehouden door stenen tentakels
-
-bericht systeem
-
-	tekst kan een instructie zijn bij interactie - perkament
-	tekst kan triggeren door in de omgeving te zijn - wolkje
-	tekst kan een vaste positie hebben en geselecteerd worden - steen tablet
+	Lichtpuzzel met spiegels
+		bericht systeem
+			tekst kan een instructie zijn bij interactie - perkament
+			tekst kan triggeren door in de omgeving te zijn - wolkje
+			tekst kan een vaste positie hebben en geselecteerd worden - steen tablet
 
 
 	
