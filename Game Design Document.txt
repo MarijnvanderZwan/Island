@@ -1,45 +1,40 @@
 
-Agenda 3-9
+Agenda 1-11
 	Reticle updaten (tijdlimiet element toepassen)
-	Valkhek / bodemhek
+	Valkhek / bodemhek animatie omdraaien
+
 	Floortile puzzel
-		Floortile mesh
-		Afstand tussen tiles vergroten om overloop bug op te lossen
-		tijdlimiet
-			in interface bouwen
 		'vormen' lopen
 		niet kunnen springen visueel verklaren
-		drie uitgewerkte puzzels
-			1 intro
-			2 normaal
-			3 moeilijk (eventueel combineren met andere puzzel elementen)
+		opnieuw op tile staan reset puzzel
+		van puzzel aflopen reset puzzel
 
-Floortile puzzel
-	3 soorten:
-		- Verf alle tiles uit, als je een tweede keer op een tile komt gaat hij weer aan.
- 		- Maak een vorm, druk op een knop om met een effect weer te geven welkje tiles aan moeten. Daarna tiles aanzetten tot deze vorm gemaakt is
-		- Zet alle tiles aan. Tiles blijven amar een bepaalde tijd aan. Doel is om het patroon te leren en daarna efficient alle tiles aan te zetten
+	Vuurbal puzzel
+		in level toepassen
+		schiet patroon maken
+		lava niet vergeten
 
-Agenda toekomst
 	Sigil tree wordt sigil totempaal
+	Totempalen bestaan uit verschillende soorten segmenten en verschillende versies
+		Soorten			Versies
+		
+		Sigils / Idol		Beetle, Book, Crystal, Eye, Leaves, Monkey, Rune, Sun, Wind 
+		Gate			Geopend
+		Collectible		
+		Finished
+		Death count	
 
-Ideeën
+Ideeën:
+
 	Watervolume zwembaar maken
 	Deur met diercombinaties met hint
-	UI indicatie voor aflopende tijd
-	In-world indicatie voor aflopende tijd (zandloper?)
-
-Bugs
 	Interface tellers moeten niet standaard zichtbaar zijn
-	Lightbeam collide met interaction range van speler
- 
-=======
 	Bij doodvallen camera lager laten eindigen
-	
-	Vloer waarbij alle tiles geactiveerd moeten worden om een deur te openen
 
-Ontwerp
-	Sigils
+
+
+Ontwerp Ideeën:
+	Sigils:
 		Kever
 		Kat
 		Blad
@@ -52,21 +47,17 @@ Ontwerp
 		Octupus
 		Aapje
 
-Meshes
+Meshes Ideeën:
 	Deur / poort
 	Grote rotsen
-
 	Runestenen
 	Boek
 	Brazier
 	Goal beam
 	Muurstuk met raam / tralies
-	
-	
 	Ton
 	Schatkist
 	Scheepswrak
-
 	Muren / steen
 	Kameronderdelen
 	Houten muur
@@ -74,45 +65,38 @@ Meshes
 	balk verbindingstuk
 	Stenen pad
 	Trap als deel van stenen pad
-
-	Puzzle goals centerpiece
-	Urn / Vazen
 	Rotzooi
 	Dak
-	Stalen Hek
-	Ketting tbv ruine
 	Losse pilaar
 	Standbeeld
 	Sokkel
 	Sarcofaag
 	Offertafel
-	
 	Struik
 	Schildpad
-	
 	Cactus
 	Gras
 
-	
+Ideeën voor bestaande puzzels:	
 
-Houten Schuifblok Maze
+Houten Schuifblok Maze:
 	Springen afschermen
 		puntige hoekige hek meshes
 	
-Knikkerbaan
+Knikkerbaan:
 	ballen vallen in lava
 	ballen beginnen uit 'mechanische' contraptie'
 	lavaballen creeër machine, bal lava in water
-	
 
-Voltooid
-	Niet kunnen springen wanneer je iets vast hebt
-	Ronde vormen voor sigils, worden vasgehouden door stenen tentakels
-	Lichtpuzzel met spiegels
-		bericht systeem
-			tekst kan een instructie zijn bij interactie - perkament
-			tekst kan triggeren door in de omgeving te zijn - wolkje
-			tekst kan een vaste positie hebben en geselecteerd worden - steen tablet
+
+Floortile puzzel
+	3 soorten:
+		- Verf alle tiles uit, als je een tweede keer op een tile komt gaat hij weer aan.
+ 		- Maak een vorm, druk op een knop om met een effect weer te geven welkje tiles aan moeten. Daarna tiles aanzetten tot deze vorm gemaakt is
+		- Zet alle tiles aan. Tiles blijven amar een bepaalde tijd aan. Doel is om het patroon te leren en daarna efficient alle tiles aan te zetten
+
+
+	
 
 
 	
