@@ -26,6 +26,8 @@ Agenda toekomst
 Ideeën
 	Watervolume zwembaar maken
 	Deur met diercombinaties met hint
+	UI indicatie voor aflopende tijd
+	In-world indicatie voor aflopende tijd (zandloper?)
 
 Bugs
 	Interface tellers moeten niet standaard zichtbaar zijn
