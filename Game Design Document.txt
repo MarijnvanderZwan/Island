@@ -18,20 +18,13 @@ Agenda 1-11
 	Totempalen bestaan uit verschillende soorten segmenten en verschillende versies
 		Soorten			Versies
 		
-		Sigils / Idol		Kever, Blad, 
-		Gate
-		Collectible
+		Sigils / Idol		Beetle, Book, Crystal, Eye, Leaves, Monkey, Rune, Sun, Wind 
+		Gate			Geopend
+		Collectible		
 		Finished
 		Death count	
 
-
-Floortile puzzel
-	3 soorten:
-		- Verf alle tiles uit, als je een tweede keer op een tile komt gaat hij weer aan.
- 		- Maak een vorm, druk op een knop om met een effect weer te geven welkje tiles aan moeten. Daarna tiles aanzetten tot deze vorm gemaakt is
-		- Zet alle tiles aan. Tiles blijven amar een bepaalde tijd aan. Doel is om het patroon te leren en daarna efficient alle tiles aan te zetten
-
-Ideeën
+Ideeën:
 
 	Watervolume zwembaar maken
 	Deur met diercombinaties met hint
@@ -40,8 +33,8 @@ Ideeën
 
 
 
-Ontwerp
-	Sigils
+Ontwerp Ideeën:
+	Sigils:
 		Kever
 		Kat
 		Blad
@@ -54,7 +47,7 @@ Ontwerp
 		Octupus
 		Aapje
 
-Meshes
+Meshes Ideeën:
 	Deur / poort
 	Grote rotsen
 	Runestenen
@@ -84,16 +77,25 @@ Meshes
 	Cactus
 	Gras
 
-	
+Ideeën voor bestaande puzzels:	
 
-Houten Schuifblok Maze
+Houten Schuifblok Maze:
 	Springen afschermen
 		puntige hoekige hek meshes
 	
-Knikkerbaan
+Knikkerbaan:
 	ballen vallen in lava
 	ballen beginnen uit 'mechanische' contraptie'
 	lavaballen creeër machine, bal lava in water
+
+
+Floortile puzzel
+	3 soorten:
+		- Verf alle tiles uit, als je een tweede keer op een tile komt gaat hij weer aan.
+ 		- Maak een vorm, druk op een knop om met een effect weer te geven welkje tiles aan moeten. Daarna tiles aanzetten tot deze vorm gemaakt is
+		- Zet alle tiles aan. Tiles blijven amar een bepaalde tijd aan. Doel is om het patroon te leren en daarna efficient alle tiles aan te zetten
+
+
 	
 
 
