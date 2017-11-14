@@ -1,3 +1,8 @@
+Agenda 14/11
+	Vuurbal Trial afmaken
+	Water fixen
+	Barrel
+	Begin tijdlimiet in interface
 
 Agenda 1-11
 	Reticle updaten (tijdlimiet element toepassen)
