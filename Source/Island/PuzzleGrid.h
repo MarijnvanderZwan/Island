@@ -9,31 +9,31 @@ UCLASS()
 class ISLAND_API APuzzleGrid : public AActor
 {
 	GENERATED_BODY()
-	
-public:	
+
+public:
 	// Sets default values for this actor's properties
 	APuzzleGrid();
 
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
-	
+
 	// Called every frame
-	virtual void Tick( float DeltaSeconds ) override;
-
-	UFUNCTION(BlueprintCallable, Category="PuzzleGrid")
-	void InitializeWithSize(int width, int height);
+	virtual void Tick(float DeltaSeconds) override;
 
 	UFUNCTION(BlueprintCallable, Category = "PuzzleGrid")
-	void AddPushableBlock(int x, int y);
+		void InitializeWithSize(int width, int height);
 
 	UFUNCTION(BlueprintCallable, Category = "PuzzleGrid")
-	void AddObstacle(int x, int y);
+		void AddPushableBlock(int x, int y);
 
 	UFUNCTION(BlueprintCallable, Category = "PuzzleGrid")
-	void AddGoal(int x, int y);
+		void AddObstacle(int x, int y);
 
 	UFUNCTION(BlueprintCallable, Category = "PuzzleGrid")
-	FVector PushBlockInDirection(int x, int y, int xDir, int yDir);
+		void AddGoal(int x, int y);
+
+	UFUNCTION(BlueprintCallable, Category = "PuzzleGrid")
+		FVector PushBlockInDirection(int x, int y, int xDir, int yDir);
 
 	bool IsValidCell(int x, int y);
 
