@@ -4,7 +4,7 @@ using UnrealBuildTool;
 
 public class Island : ModuleRules
 {
-	public Island(TargetInfo Target)
+	public Island(ReadOnlyTargetRules Target) : base (Target)
 	{
 		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore" });
 

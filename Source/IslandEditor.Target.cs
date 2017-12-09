@@ -5,21 +5,9 @@ using System.Collections.Generic;
 
 public class IslandEditorTarget : TargetRules
 {
-	public IslandEditorTarget(TargetInfo Target)
+	public IslandEditorTarget(TargetInfo Target) : base (Target)
 	{
 		Type = TargetType.Editor;
-	}
-
-	//
-	// TargetRules interface.
-	//
-
-	public override void SetupBinaries(
-		TargetInfo Target,
-		ref List<UEBuildBinaryConfiguration> OutBuildBinaryConfigurations,
-		ref List<string> OutExtraModuleNames
-		)
-	{
-		OutExtraModuleNames.AddRange( new string[] { "Island" } );
+		ExtraModuleNames.Add("Island");
 	}
 }

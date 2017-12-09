@@ -5,21 +5,10 @@ using System.Collections.Generic;
 
 public class IslandTarget : TargetRules
 {
-	public IslandTarget(TargetInfo Target)
+	public IslandTarget(TargetInfo Target) : base (Target)
 	{
 		Type = TargetType.Game;
+		ExtraModuleNames.Add("Island");
 	}
 
-	//
-	// TargetRules interface.
-	//
-
-	public override void SetupBinaries(
-		TargetInfo Target,
-		ref List<UEBuildBinaryConfiguration> OutBuildBinaryConfigurations,
-		ref List<string> OutExtraModuleNames
-		)
-	{
-		OutExtraModuleNames.AddRange( new string[] { "Island" } );
-	}
 }
