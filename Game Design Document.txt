@@ -1,18 +1,20 @@
-Agenda 14/11
-	Vuurbal Trial afmaken
-	Water fixen
-	Barrel
-	Begin tijdlimiet in interface
-
+Agenda 28-12
+	Level opschonen
+	Mappen opschonen
+	Totem / graveyard systeem opzetten
+	puzzelgebieden afbakenen, muren plaatsen, puzzel soorten per locatie indelen
+	Coin geluid aanpassen
+	Meshes
+		Gate met keyhole
+		Giant Wall
+		
+	
+	
 Agenda 1-11
-	Reticle updaten (tijdlimiet element toepassen)
-	Valkhek / bodemhek animatie omdraaien
-
 	Floortile puzzel
 		'vormen' lopen
 		niet kunnen springen visueel verklaren
 		opnieuw op tile staan reset puzzel
-		van puzzel aflopen reset puzzel
 
 	Vuurbal puzzel
 		in level toepassen
@@ -24,17 +26,24 @@ Agenda 1-11
 		Soorten			Versies
 		
 		Sigils / Idol		Beetle, Book, Crystal, Eye, Leaves, Monkey, Rune, Sun, Wind 
-		Gate			Geopend
-		Collectible		
-		Finished
-		Death count	
+		Collectible
+	Hoofde element gelijk aan een gate, dus bijv fire element op graveyard unlockt de fire gate			
 
 Ideeën:
-
 	Watervolume zwembaar maken
 	Deur met diercombinaties met hint
 	Interface tellers moeten niet standaard zichtbaar zijn
 	Bij doodvallen camera lager laten eindigen
+	Puzzel met rijzend lava / water
+	Floortiles een grafisch effect geven bij activeren
+	Basis grijze blok aanpassen
+
+Indeling Eiland
+	Start gestrand naast steigertje
+	Eerste puzzel, schuifpuzzel, gevolgd door twee moeilijkere
+	Na voltooing gaat gate richting vuurtempel open.
+	Einde vuurtempel puzzels (3?) eindig je met een uitzicht over van het eiland
+	
 
 
 
@@ -53,6 +62,7 @@ Ontwerp Ideeën:
 		Aapje
 
 Meshes Ideeën:
+	Lava spuwende gargoyle
 	Deur / poort
 	Grote rotsen
 	Runestenen
