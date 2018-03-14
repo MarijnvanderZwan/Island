@@ -1,4 +1,28 @@
-Agenda 28-12
+
+-----------------------------------------------------------------------
+
+NIET HIER BIJSCHRIJVEN EIERKOEK, WE HEBBEN EEN TRELLO PAGINA!
+
+----------------------------------------------------------------------
+
+To Do's
+	Visuele updates:
+		Basisblokken
+		Duwblokken (kleiner/doorzichtiger)
+		Planten/Bomen
+		Graveyard
+		Lava levendiger maken
+
+	Scheidingsmuur assets maken
+	Groene kit met gras, kiezels, bomen, struiken, klimop ed.
+	Verschillende materials voor KEY asset maken
+	Vergelijksingscamera's neerzetten
+	
+	
+AGENDA
+------------------------------
+
+28-12
 	Level opschonen
 	Mappen opschonen
 	Totem / graveyard systeem opzetten
@@ -8,9 +32,7 @@ Agenda 28-12
 		Gate met keyhole
 		Giant Wall
 		
-	
-	
-Agenda 1-11
+1-11
 	Floortile puzzel
 		'vormen' lopen
 		niet kunnen springen visueel verklaren
@@ -29,25 +51,28 @@ Agenda 1-11
 		Collectible
 	Hoofde element gelijk aan een gate, dus bijv fire element op graveyard unlockt de fire gate			
 
-Ideeën:
+IDEEËN
+------------------------------
 	Watervolume zwembaar maken
+	Water interactieve effecten geven: spetters en plonzen
 	Deur met diercombinaties met hint
 	Interface tellers moeten niet standaard zichtbaar zijn
 	Bij doodvallen camera lager laten eindigen
 	Puzzel met rijzend lava / water
 	Floortiles een grafisch effect geven bij activeren
-	Basis grijze blok aanpassen
+	Duwbaar blok meer doorzicht geven, open ruimte/kleiner maken
+	
 
-Indeling Eiland
+LEVEL DESIGN / GAMEPLAY
+------------------------------
 	Start gestrand naast steigertje
 	Eerste puzzel, schuifpuzzel, gevolgd door twee moeilijkere
 	Na voltooing gaat gate richting vuurtempel open.
 	Einde vuurtempel puzzels (3?) eindig je met een uitzicht over van het eiland
-	
+	Duidelijk visueel signaal dat graveyard totems af zijn en de KEY te halen is.
 
-
-
-Ontwerp Ideeën:
+ONTWERP ALGEMEEN
+------------------------------
 	Sigils:
 		Kever
 		Kat
@@ -55,13 +80,16 @@ Ontwerp Ideeën:
 		Boom
 		Golf
 		Zon
+		Ster
 		Ketting
 		Hand
 		Vuur
 		Octupus
 		Aapje
-
-Meshes Ideeën:
+		Oog
+		
+MESHES
+------------------------------
 	Lava spuwende gargoyle
 	Deur / poort
 	Grote rotsen
@@ -70,7 +98,6 @@ Meshes Ideeën:
 	Brazier
 	Goal beam
 	Muurstuk met raam / tralies
-	Ton
 	Schatkist
 	Scheepswrak
 	Muren / steen
@@ -92,7 +119,8 @@ Meshes Ideeën:
 	Cactus
 	Gras
 
-Ideeën voor bestaande puzzels:	
+PUZZELS
+------------------------------
 
 Houten Schuifblok Maze:
 	Springen afschermen
