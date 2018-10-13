@@ -45,21 +45,29 @@ void APuzzleGrid::InitializeWithSize(int width, int height)
 
 void APuzzleGrid::AddPushableBlock(int x, int y)
 {
+	if (!IsValidCell(x, y)) return;
+
 	Cells[x][y] = 1;
 }
 
 void APuzzleGrid::AddObstacle(int x, int y)
 {
+	if (!IsValidCell(x, y)) return;
+
 	Cells[x][y] = 2;
 }
 
 void APuzzleGrid::AddGoal(int x, int y)
 {
+	if (!IsValidCell(x, y)) return;
+
 	Cells[x][y] = -1;
 }
 
 FVector APuzzleGrid::PushBlockInDirection(int x, int y, int xDir, int yDir)
 {
+	if (!IsValidCell(x, y)) return FVector(-1, -1, 0);
+
 	Cells[x][y] = 0;
 	while (IsValidMove(x + xDir, y + yDir))
 	{
