@@ -14,7 +14,6 @@
 # Compiled Dynamic libraries
 *.so
 *.dylib
-*.dll
 
 # Fortran module files
 *.mod
@@ -48,8 +47,7 @@ SourceArt/**/*.tga
 
 # Builds
 Build/*
-Binaries/
-Binaries/*
+Binaries/**/*.pdb
 
 # Don't ignore icon files in Build
 !Build/**/*.ico
